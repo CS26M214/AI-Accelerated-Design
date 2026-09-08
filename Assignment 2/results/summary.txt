@@ -1,0 +1,16 @@
+{'input': 'float32', 'operation': 'conversion', 'format': 'LNS8', 'mean_error': np.float64(0.9795185738568618), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'conversion', 'format': 'LNS16', 'mean_error': np.float64(0.0026566530057905917), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'addition', 'format': 'LNS8', 'mean_error': np.float64(0.9916754594991642), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'addition', 'format': 'LNS16', 'mean_error': np.float64(0.00784964469321954), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'multiplication', 'format': 'LNS8', 'mean_error': np.float64(0.9970044314371453), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'multiplication', 'format': 'LNS16', 'mean_error': np.float64(0.0038644001333833517), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'mac', 'format': 'LNS8', 'mean_error': np.float64(0.9949581389913819), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float32', 'operation': 'mac', 'format': 'LNS16', 'mean_error': np.float64(0.0028899066568139078), 'maximum_error': np.float64(0.9999999999999922), 'samples': 1009}
+{'input': 'float16', 'operation': 'conversion', 'format': 'LNS8', 'mean_error': np.float64(0.025978101099184824), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float16', 'operation': 'conversion', 'format': 'LNS16', 'mean_error': np.float64(0.0006739038239038492), 'maximum_error': np.float64(0.0013522310161557638), 'samples': 1009}
+{'input': 'float16', 'operation': 'addition', 'format': 'LNS8', 'mean_error': np.float64(0.10613280830693593), 'maximum_error': np.float64(8.513656920021768), 'samples': 1009}
+{'input': 'float16', 'operation': 'addition', 'format': 'LNS16', 'mean_error': np.float64(0.006682590592924964), 'maximum_error': np.float64(1.0), 'samples': 1009}
+{'input': 'float16', 'operation': 'multiplication', 'format': 'LNS8', 'mean_error': np.float64(0.7457686463429791), 'maximum_error': np.float64(1.0), 'samples': 1006}
+{'input': 'float16', 'operation': 'multiplication', 'format': 'LNS16', 'mean_error': np.float64(0.0009691893260662769), 'maximum_error': np.float64(0.01181733101111792), 'samples': 1006}
+{'input': 'float16', 'operation': 'mac', 'format': 'LNS8', 'mean_error': np.float64(0.7636483290653703), 'maximum_error': np.float64(1.0), 'samples': 1006}
+{'input': 'float16', 'operation': 'mac', 'format': 'LNS16', 'mean_error': np.float64(0.0012068234589067816), 'maximum_error': np.float64(0.01127869914757777), 'samples': 1006}
